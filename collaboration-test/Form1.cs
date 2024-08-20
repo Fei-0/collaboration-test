@@ -39,7 +39,7 @@ namespace collaboration_test
             f2.Show();
         }
 
-        public int summary(int a,int b)
+        public int summaryfunction(int a,int b)
         {
             int s;
             s = a + b;
