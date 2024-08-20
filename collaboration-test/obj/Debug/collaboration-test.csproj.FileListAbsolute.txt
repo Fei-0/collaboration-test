@@ -1,0 +1,10 @@
+F:\VS2019Project\collaboration-test\collaboration-test\bin\Debug\collaboration-test.exe.config
+F:\VS2019Project\collaboration-test\collaboration-test\bin\Debug\collaboration-test.exe
+F:\VS2019Project\collaboration-test\collaboration-test\bin\Debug\collaboration-test.pdb
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.csproj.AssemblyReference.cache
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration_test.Form1.resources
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration_test.Properties.Resources.resources
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.csproj.GenerateResource.cache
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.csproj.CoreCompileInputs.cache
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.exe
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.pdb
