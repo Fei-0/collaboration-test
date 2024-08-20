@@ -31,5 +31,12 @@ namespace collaboration_test
         {
             textBox2.Text = "Collaboration Test";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            // this.Hide();
+            Form2 f2 = new Form2();
+            f2.Show();
+        }
     }
 }

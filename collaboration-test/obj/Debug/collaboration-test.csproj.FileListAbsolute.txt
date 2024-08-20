@@ -8,3 +8,4 @@ F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-t
 F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.csproj.CoreCompileInputs.cache
 F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.exe
 F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration-test.pdb
+F:\VS2019Project\collaboration-test\collaboration-test\obj\Debug\collaboration_test.Form2.resources
