@@ -26,5 +26,10 @@ namespace collaboration_test
         {
             textBox1.Text= "Hello World!" ;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "Collaboration Test";
+        }
     }
 }
