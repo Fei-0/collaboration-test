@@ -38,5 +38,12 @@ namespace collaboration_test
             Form2 f2 = new Form2();
             f2.Show();
         }
+
+        public int summary(int a,int b)
+        {
+            int s;
+            s = a + b;
+            return s;
+        }
     }
 }
