@@ -39,11 +39,28 @@ namespace collaboration_test
             f2.Show();
         }
 
+
         public int summaryfunction(int a,int b)
         {
             int s;
             s = a + b;
             return s;
         }
+
+                public int MaxArr(int[] a)
+        {
+            int temp=5;
+            for (int i = 0; i < a.Length; i++)
+            {
+                if (a[i] > temp)
+                {
+                    temp = a[i];
+                }
+            }
+            return temp;
+        }
+
+        
+
     }
 }
