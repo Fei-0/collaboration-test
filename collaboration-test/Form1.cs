@@ -38,5 +38,19 @@ namespace collaboration_test
             Form2 f2 = new Form2();
             f2.Show();
         }
+                public int MaxArr(int[] a)
+        {
+            int temp=5;
+            for (int i = 0; i < a.Length; i++)
+            {
+                if (a[i] > temp)
+                {
+                    temp = a[i];
+                }
+            }
+            return temp;
+        }
+
+        
     }
 }
